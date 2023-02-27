@@ -116,8 +116,8 @@ function App() {
                                       margin: "0 0 8px 0",
                                       minHeight: "50px",
                                       backgroundColor: snapshot.isDragging
-                                        ? "#263B4A"
-                                        : "#456C86",
+                                        ? "#363534"
+                                        : "#919191",
                                       color: "white",
                                       ...provided.draggableProps.style
                                     }}
